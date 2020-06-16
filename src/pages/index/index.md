@@ -1,10 +1,10 @@
 ---
 templateKey: IndexPage
-title: Nice to meet you
+title: You found me!
 featuredImage: ./me.jpg
 style: index
 ---
 
-My name's **_Juliette Pretot_**. I'm a creative, ambitious, and enterprising engineer.
+My name is **_Christopher Dettloff_**. I am a new grad from the **University of Michigan-Dearborn**.
 
-Recently I joined **Google** in **London** to work on a research project enabling meaningful control of data in distributed systems. Previously I built a web-app at N26 in Berlin.
+I currently work at **DaySmart Software** in **Ann Arbor** working with the platform engineering team.

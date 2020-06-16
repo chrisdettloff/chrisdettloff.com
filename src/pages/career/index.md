@@ -1,58 +1,35 @@
 ---
 templateKey: TemplateBasic
-title: Juliette Pretot
+title: Christopher Dettloff
 ---
 
-_Creative, ambitious, and enterprising software engineer. — I strive in teams with strong engineering cultures and meaningful cross-functional collaboration._
-
-**hi@juliette.sh**
+**cmdettlo@umich.edu**
 
 ## Experience
 
-### UX Engineer [Engineering] at Google, 2020.04 - present, London
+### Software Development Intern at DaySmart Software, 2020.01 - present, Ann Arbor
 
-Working on a research project enabling meaningful control of data in distributed systems.
+- Collaboration with platform engineers working on scalable applications on AWS using EC2, CodeDeply, S3, Elastic load balancer, Auto-scaling, and monitoring these applications using CloudWatch and New Relic Agents.
+- Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework.
+- Maintained Git repositories for our scalable applications, version control and build automation integrating git into Jenkins CI.
 
-### Senior Web Engineer at N26, 2018.01 - 2020.03, Berlin & New York City
+### Data Processing Administrator at Dicom Transportation Group, 2016.03 - 2018.02, Ypsilanti
 
-Isomorphic React, GraphQL, & Node.js powering the webapp of a challenger bank with 5M users.
-
-- Led web development of key features
-- Reduced errors in prod by 30% via deterministic script loading
-- Sped up time-to-first-meaningful-paint by 20% via improved server-side rendering
-- Improved time-to-interactive by 1.4s with code splitting
-- Doubled font loading speed via range-splitting & preloading
-- Multiplied developer productivity by engineering key abstractions
-- Mentored junior & mid-level engineers, conducted interviews, took charge of team processes
-
-### Lead Engineer at Language Academy, 2016.08 - 2017.12, Berlin
-
-Build-time rendered React for a language learning platform.
-
-- Created and led development of the web platform
-- Accomplished a 10% visitor-to-subscriber rate on marketing pages
-- Achieved a 63% faster time-to-interactive than competitors
-- Reduced email automation costs by 82% using open source software
-- Co-founded the company, brought it to profitability
-
-### Web Developer & Design Researcher at Clue, 2015 - 2016, Berlin
-
-JavaScript & Python for a health tracking app with 5M users.
-
-- Engineered in-app modals using web technologies
-- Prototyped a chatbot in Python
-- Rebuilt the support website, increasing page views by +20%
-- Executed & created company-wide processes for user research
+- Programmed mobile computer units to scan and log carton information
+- Updated and managed 10+ company shared excel spreadsheets and internal websites
+- Assisted in software training and monitoring the inventory tracking of supplies
+- Oversaw data received from thousands of dollars of product shipped out every day
 
 ## Education
 
-- Law School at Humboldt University Berlin
+- University of Michigan-Dearborn, Bachelor of Science in Software Engineering, 2016 - 2020
 
-## Recognition
+## Projects
 
-- Google Developer Expert for Web Technologies, 2019 to 2020
+Capstone Project: Ecommerce Conversion Predictor
 
-## Personal Projects
+- Predicted shopper’s odds of placing an order based on their shopping behavior such as products seen and products purchased. Developed and trained a machine learning model based on historical data to make predictions about future actions. _Python; Tensorflow; postgresQL_
 
-- [agnostic-axe](https://github.com/juliettepretot/agnostic-axe): Developer tool that reports accessibility issues to the browser console. (Now maintained by [Deque Systems](https://en.wikipedia.org/wiki/Deque_Systems))
-- [co-commit](https://github.com/juliettepretot/npx-co-commit): A Node.js tool to co-author commits on GitHub when pair programming. Featured on the front page of [Product Hunt](https://www.producthunt.com/posts/co-commit).
+DaySmart Company Portal
+
+- Static website used as a company information portal. Pull request integration allowing for anyone to edit the website who is familiar with markdown language and part of the company using Google authentication. _Gatsby; Github; AWS_

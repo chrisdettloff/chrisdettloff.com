@@ -1,10 +1,10 @@
 ---
 templateKey: TemplateBasic
-title: I'm always happy to hear from you.
+title: Reach out to me!
 ---
 
-<strong style="font-weight: bold; font-size: 1.1em;">📮 hi@juliette.sh</strong>
+<strong style="font-weight: bold; font-size: 1.1em;">📮 cmdettlo@umich.edu</strong>
 
-- [Twitter](https://twitter.com/juliettepretot)
-- [GitHub](https://github.com/juliettepretot)
-- [LinkedIn](https://www.linkedin.com/in/juliette-pretot-2a9530a5/)
+- [Twitter](https://twitter.com/cdettloff)
+- [GitHub](https://github.com/chrisdettloff)
+- [LinkedIn](https://www.linkedin.com/in/christopherdettloff/)
