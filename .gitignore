@@ -3,6 +3,7 @@
 node_modules
 .cache/
 .vscode/
+
 # Build directory
 public/
 .DS_Store
