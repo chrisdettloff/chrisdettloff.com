@@ -1,7 +1,12 @@
 module.exports = {
   siteMetadata: {
+<<<<<<< HEAD
     title: 'Christopher Dettloff',
     siteUrl: 'https://www.chrisdettloff.com',
+=======
+    title: 'Juliette Pretot',
+    siteUrl: 'https://jul.sh',
+>>>>>>> 6fbdb8a08b953d132585f822c58895544969f808
   },
   plugins: [
     'gatsby-plugin-preact',
