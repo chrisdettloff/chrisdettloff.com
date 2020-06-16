@@ -1,8 +1,8 @@
 {
-  "name": "juliette.sh",
-  "description": "juliette.sh",
-  "version": "0.1.0",
-  "author": "Juliette Pretot",
+  "name": "chrisdettloff.com",
+  "description": "The second iteration of my personal website using GatsbyJS hosted on Netlify.",
+  "version": "2.0.0",
+  "author": "Christopher Dettloff",
   "dependencies": {
     "@types/node": "^14.0.5",
     "@types/react": "^16.9.35",
