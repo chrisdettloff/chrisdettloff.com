@@ -8,7 +8,7 @@ const FONTS = {
 
 const WEBFONTS = `
 @font-face {
-  font-family: 'Juliette';
+  font-family: 'Chris';
   src: url('${FONTS.regular}') format('woff2');
   font-weight: normal;
   font-style: normal;
@@ -16,7 +16,7 @@ const WEBFONTS = `
 }
 
 @font-face {
-  font-family: 'Juliette';
+  font-family: 'Chris';
   src: url('${FONTS.bold}') format('woff2');
   font-weight: bold;
   font-style: normal;
@@ -24,7 +24,7 @@ const WEBFONTS = `
 }
 
 @font-face {
-  font-family: 'Juliette Sans';
+  font-family: 'Chris Sans';
   src: url('${FONTS.sans}') format('woff2');
   font-weight: bold;
   font-style: normal;
@@ -47,7 +47,7 @@ const GREETING = `/*
 
 {\\__/}
 ( •.•)
-/ >🎁 see the git repo for the source code: https://github.com/juliettepretot/jul.sh
+/ >🎁 see the Github repository for the source code: https://github.com/chrisdettloff/chrisdettloff.com
 
 */`
 
