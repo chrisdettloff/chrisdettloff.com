@@ -1,21 +1,36 @@
-## Tech Stack 🥞
+<h1 align="center">
+  chrisdettloff.com - v2
+</h1>
+<p align="center">
+  The second iteration of <a href="https://www.chrisdettloff.com" target="_blank">chrisdettloff.com</a>
+</p>
 
-#### Foundation 🏡
+<p align="center">
+  <a href="https://app.netlify.com/sites/chrisdettloff/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/9cad7148-e002-4f7f-8431-02402fb64993/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
 
-Using **[GatsbyJs](https://github.com/gatsbyjs/gatsby)** the website's **[React](https://github.com/facebook/react)** code is rendered to static HTML at built time. Once a client visits the page, a JavaScript bundle is loaded asynchronously.
+![demo](static/images/demo.png)
 
-#### Data 📚
+## Stack
 
-Content is stored in markdown files and queried using [**GraphQL**](https://graphql.org/).
+#### Foundation
 
-#### Styling 👩‍🎨
+Built using the **[GatsbyJS](https://github.com/gatsbyjs/gatsby)** framework.
+
+#### Data
+
+The content of the pages is stored in markdown files and queried with [**GraphQL**](https://graphql.org/).
+
+#### Styling
 
 Styling is done using [**Styled Components**](https://www.styled-components.com).
 
-## Linting & Formatting 🔍
+## Linting & Formatting
 
-The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org/)**, formatted using **[Prettier](https://github.com/prettier/prettier)** and linted using **[TSLint](https://palantir.github.io/tslint/)**. Enforced using commit hooks.
+The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org/)**, the formatted is done using **[Prettier](https://github.com/prettier/prettier)** and linted is done using **[TSLint](https://palantir.github.io/tslint/)**. Enforced with commit hooks.
 
-## Continuous Deployment 🚀
+## CI/CD
 
-As soon as changes are merged into the `master` branch, the page will automatically be built by **[Netlify](https://netlify.com)**. It is then deployed as a static site using the Netlify CDN.
+The page is built and deployed by **[Netlify](https://netlify.com)** when changes are push to `master`. 
