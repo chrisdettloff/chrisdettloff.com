@@ -7,7 +7,9 @@ title: Christopher Dettloff
 
 ## Experience
 
-### Cloud Engineer Apprentice at DaySmart Software, 2020.01 - present, Ann Arbor
+### Cloud Engineer Apprentice at Daysmart Software, 2020.09 - present, Ann Arbor
+
+### Software Development Intern at DaySmart Software, 2020.01 - 2020.09, Ann Arbor
 
 - Collaboration with platform engineers working on scalable applications on AWS using EC2, CodeDeply, S3, Elastic load balancer, Auto-scaling, and monitoring these applications using CloudWatch and New Relic Agents.
 - Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework.
