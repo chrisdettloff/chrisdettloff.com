@@ -7,7 +7,7 @@ title: Christopher Dettloff
 
 ## Experience
 
-### Software Development Intern at DaySmart Software, 2020.01 - present, Ann Arbor
+### Cloud Engineer Apprentice at DaySmart Software, 2020.01 - present, Ann Arbor
 
 - Collaboration with platform engineers working on scalable applications on AWS using EC2, CodeDeply, S3, Elastic load balancer, Auto-scaling, and monitoring these applications using CloudWatch and New Relic Agents.
 - Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework.
@@ -33,3 +33,7 @@ Capstone Project: Ecommerce Conversion Predictor
 DaySmart Company Portal
 
 - Static website used as a company information portal. Pull request integration allowing for anyone to edit the website who is familiar with markdown language and part of the company using Google authentication. _Gatsby; Github; AWS_
+
+Hotel Management System
+
+- Managed a team of three colleagues in creating and documenting a hotel management system. Documentationincluded a constructing ER Diagram, Project Charter, SPMP, SRS, Design Document, and Testingdocumentation. _C++; SQL;_
