@@ -3,11 +3,11 @@ templateKey: TemplateBasic
 title: Christopher Dettloff
 ---
 
-**cmdettlo@umich.edu**
+**dettloffchris@gmail.com**
 
 ## Experience
 
-### Cloud Engineer Apprentice at Daysmart Software, 2020.09 - present, Ann Arbor
+### Cloud Engineer at Daysmart Software, 2020.09 - present, Ann Arbor
 
 ### Software Development Intern at DaySmart Software, 2020.01 - 2020.09, Ann Arbor
 
