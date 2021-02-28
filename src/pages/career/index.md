@@ -10,13 +10,13 @@ title: Christopher Dettloff
 ### Cloud Engineer at Daysmart Software, 2020.09 - present, Ann Arbor
 
 - Built and maintained continuous integration/continuous delivery pipelines with Jenkins
-- Wrote Infrastructure as code for our Angular based web apps in AWS servies such as S3, Route53, IAM, and Cloudfront 
-- Migrated our .NET applications to docker containers on AWS ECS
+- Wrote Infrastructure as code for our Angular based web apps using AWS services such as S3, Route53, IAM, and Cloudfront 
+- Migrated our .NET applications to docker containers on AWS ECS for 75% reduction on compute costs
 - Application and infrastructure monitoring using New Relic and Cloudwatch on both lower and production environments
 - Participated in cost savings initiatives to reduce infrastructure spending by 30%
 ### Software Development Intern at DaySmart Software, 2020.01 - 2020.09, Ann Arbor
 
-- Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework
+- Worked with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework
 - Tracked bugs and managed tickets using JIRA and Asana
 ### Data Processing Administrator at Dicom Transportation Group, 2016.03 - 2018.02, Ypsilanti
 
@@ -33,7 +33,7 @@ title: Christopher Dettloff
 
 Capstone Project: Ecommerce Conversion Predictor
 
-- Predicted shopper’s odds of placing an order based on their shopping behavior such as products seen and products purchased. Developed and trained a machine learning model based on historical data to make predictions about future actions. _Python; Tensorflow; postgresQL_
+- Predicted shopper’s odds of placing an order based on their shopping behavior such as products seen and products purchased. Developed and trained a machine learning model based on historical shopper interaction data to make predictions about conversion percentage. _Python; Tensorflow; postgresQL_
 
 DaySmart Company Portal
 
