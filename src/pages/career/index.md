@@ -9,12 +9,15 @@ title: Christopher Dettloff
 
 ### Cloud Engineer at Daysmart Software, 2020.09 - present, Ann Arbor
 
+- Built and maintained continuous integration/continuous delivery pipelines with Jenkins
+- Wrote Infrastructure as code for our Angular based web apps in AWS servies such as S3, Route53, IAM, and Cloudfront 
+- Migrated our .NET applications to docker containers on AWS ECS
+- Application and infrastructure monitoring using New Relic and Cloudwatch on both lower and production environments
+- Participated in cost savings initiatives to reduce infrastructure spending by 30%
 ### Software Development Intern at DaySmart Software, 2020.01 - 2020.09, Ann Arbor
 
-- Collaboration with platform engineers working on scalable applications on AWS using EC2, CodeDeply, S3, Elastic load balancer, Auto-scaling, and monitoring these applications using CloudWatch and New Relic Agents.
-- Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework.
-- Maintained Git repositories for our scalable applications, version control and build automation integrating git into Jenkins CI.
-
+- Work with QA team on expanding application testing writing step definitions and feature files in Ruby using Selenium web testing with Cucumber framework
+- Tracked bugs and managed tickets using JIRA and Asana
 ### Data Processing Administrator at Dicom Transportation Group, 2016.03 - 2018.02, Ypsilanti
 
 - Programmed mobile computer units to scan and log carton information
@@ -34,8 +37,8 @@ Capstone Project: Ecommerce Conversion Predictor
 
 DaySmart Company Portal
 
-- Static website used as a company information portal. Pull request integration allowing for anyone to edit the website who is familiar with markdown language and part of the company using Google authentication. _Gatsby; Github; AWS_
+- Static website used as a company information portal. Pull request integration allowing for anyone to edit the website who is familiar with markdown language and part of the company using Google authentication. _Gatsby; Github actions; AWS_
 
 Hotel Management System
 
-- Managed a team of three colleagues in creating and documenting a hotel management system. Documentationincluded a constructing ER Diagram, Project Charter, SPMP, SRS, Design Document, and Testingdocumentation. _C++; SQL;_
+- Managed a team of three colleagues in creating and documenting a hotel management system. Documentation included a constructing ER Diagram, Project Charter, SPMP, SRS, Design Document, and Testing documentation. _C++; SQL;_
