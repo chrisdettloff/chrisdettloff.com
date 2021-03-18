@@ -20,8 +20,7 @@
 Built using the **[GatsbyJS](https://github.com/gatsbyjs/gatsby)** framework.
 
 #### Data
-
-The content of the pages is stored in markdown files and queried with [**GraphQL**](https://graphql.org/).
+Page content is stored in markdown files and queried with [**GraphQL**](https://graphql.org/).
 
 #### Styling
 
@@ -29,7 +28,7 @@ Styling is done using [**Styled Components**](https://www.styled-components.com)
 
 ## Linting & Formatting
 
-The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org/)**, the formatted is done using **[Prettier](https://github.com/prettier/prettier)** and linted is done using **[TSLint](https://palantir.github.io/tslint/)**. Enforced with commit hooks.
+The codebase is type-checked using **[TypeScript](https://www.typescriptlang.org/)**, the formatting is done using **[Prettier](https://github.com/prettier/prettier)** and linting is done using **[TSLint](https://palantir.github.io/tslint/)**. Enforced with commit hooks.
 
 ## CI/CD
 
