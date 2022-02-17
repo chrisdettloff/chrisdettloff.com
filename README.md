@@ -1,5 +1,5 @@
 <h1 align="center">
-  chrisdettloff.com - v2
+  chrisdettloff.com
 </h1>
 <p align="center">
   The second iteration of <a href="https://www.chrisdettloff.com" target="_blank">chrisdettloff.com</a>
